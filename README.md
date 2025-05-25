@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
 🎓 I'm Gokul Sajeevan, currently pursuing my MSc in Computer Science at University College Dublin. I'm deeply passionate about Software Engineering and AI, actively enhancing my skills to become an impactful software engineer.
 
 🧑‍💻 Technology excites me! I began with Python and Java, ventured into JavaScript, React, and Spring Boot, and now I'm diving deeper into Cloud Technologies, Kubernetes, and Generative AI.
 
-🎯 Current goals:
+## Current goals:
 
 Master Data Structures and Algorithms
 
@@ -12,13 +12,13 @@ Excel in Backend Development
 
 Build innovative AI-driven applications
 
-🌟 Personal Interests:
+## Personal Interests:
 
 I'm an enthusiastic learner and avid problem solver.
 
 In my downtime, I love exploring personal finance strategies, fitness routines, and trying new cooking recipes.
 
-🚀 Skills
+## Skills
 
 Programming Languages
 
