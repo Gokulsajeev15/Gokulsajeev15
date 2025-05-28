@@ -16,7 +16,7 @@ Build innovative AI-driven applications
 
 I'm an enthusiastic learner and avid problem solver.
 
-In my downtime, I love exploring personal finance strategies, fitness routines, and trying new cooking recipes.
+In my downtime, I love exploring personal finance strategies and trying new cooking recipes.
 
 ## Skills
 
