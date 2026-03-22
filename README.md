@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🎓 I'm Gokul Sajeevan, currently pursuing my MSc in Computer Science at University College Dublin. I'm deeply passionate about Software Engineering and AI, actively enhancing my skills to become an impactful software engineer.
+🎓 I'm Gokul Sajeevan, A Recent MSc in Computer Science graduate from University College Dublin. I'm deeply passionate about Software Engineering and AI, actively enhancing my skills to become an impactful software engineer.
 
 🧑‍💻 Technology excites me! I began with Python and Java, ventured into JavaScript, React, and Spring Boot, and now I'm diving deeper into Cloud Technologies, Kubernetes, and Generative AI.
 
